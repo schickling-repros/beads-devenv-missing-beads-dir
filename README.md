@@ -147,5 +147,5 @@ From `nix/devenv-module.nix` in overeng-beads-public:
 
 ## Links
 
-- Issue: (to be added)
+- Issue: https://github.com/overengineeringstudio/overeng-beads-public/issues/2
 - Beads devenv module: https://github.com/overengineeringstudio/overeng-beads-public/blob/main/nix/devenv-module.nix
